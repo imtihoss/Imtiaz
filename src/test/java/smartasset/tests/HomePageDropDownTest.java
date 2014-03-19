@@ -26,6 +26,6 @@ public class HomePageDropDownTest extends TestBase {
         // Verify that the last item is startup economics
         homePage.verifyLastInDropDown(DropDownItems.STARTUP_ECONOMICS);
         homePage.clickOnGetStartedNowButton();
-        homePage.clickOnGetStartedNowButton();
+
     }
 }
